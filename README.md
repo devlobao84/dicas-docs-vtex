@@ -42,4 +42,4 @@
 
 [Comunidade VTEX](https://community.vtex.com/)
 
-[Githuib VTEX](
+[Githuib VTEX](https://github.com/vtex)
